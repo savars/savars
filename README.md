@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here I will share so many insights with you on the future about the projects I am currently working on. You can expect some Computer Vision and Machine Learning Tutorials to implement your Robotics Projects.
+Here I will be sharing so many insights with you on the future about the projects I am currently working on. You can expect some Computer Vision and Machine Learning tutorials to implement your Robotic Projects.
 
 
 
